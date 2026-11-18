@@ -1,0 +1,4 @@
+rootProject.name = 'fleetengine-auth-sample'
+
+include(':fleetengine-auth')
+project(':fleetengine-auth').projectDir = new File('..')
